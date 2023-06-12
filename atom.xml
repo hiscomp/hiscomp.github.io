@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>李福临的博客</title>
+  
+  
+  <link href="http://www.lifulin.blog/atom.xml" rel="self"/>
+  
+  <link href="http://www.lifulin.blog/"/>
+  <updated>2023-05-12T03:52:09.573Z</updated>
+  <id>http://www.lifulin.blog/</id>
+  
+  <author>
+    <name>李福临</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://www.lifulin.blog/2023/05/12/welcome%20to%20my%20blog!/"/>
+    <id>http://www.lifulin.blog/2023/05/12/welcome%20to%20my%20blog!/</id>
+    <published>2023-05-12T03:49:46.621Z</published>
+    <updated>2023-05-12T03:52:09.573Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="welcome-to-my-blog"><a href="#welcome-to-my-blog" class="headerlink" title="welcome to my blog!"></a>welcome to my blog!</h1><p>本博客与2023年5月11日创建而成，2023年5月12日初步美化</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;welcome-to-my-blog&quot;&gt;&lt;a href=&quot;#welcome-to-my-blog&quot; class=&quot;headerlink&quot; title=&quot;welcome to my blog!&quot;&gt;&lt;/a&gt;welcome to my blog!&lt;/h1&gt;&lt;p&gt;本博客与</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
